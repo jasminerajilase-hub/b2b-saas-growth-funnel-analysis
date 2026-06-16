@@ -19,7 +19,7 @@ End-to-end SaaS Funnel Analysis project using SQL Server, Power BI, and Python.
 ## Dashboard Preview
 
 
-![Dashboard](Images/Dashboard%20Saas.png)
+![Dashboard](Images/Dashboard.png)
 
 ## Key Metrics
 - Total Users: 5,000
